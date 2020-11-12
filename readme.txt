@@ -11,4 +11,5 @@ Lord Bellish: Dont fight in the north or the south , fight every battle in your 
 Ingrit : You Know nothing Jon Snow
 
 Arya : A girl has no name , a girl is no-one.
+Arya : look at me , when they ask . Tell them that winter came for house frey.
 
