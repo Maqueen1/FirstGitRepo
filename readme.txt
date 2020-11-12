@@ -1,7 +1,9 @@
 Hello World
-This king in the north
+This is king in the north
 The north remembers!
 
+****A script about some GAME OF THRONES series quotes****
+# Written by Goerge R Martins
 
 Lord Bellish: Dont fight in the north or the south , fight every battle in your mind. everyone is your enemy ,everyone 
               is your friend
